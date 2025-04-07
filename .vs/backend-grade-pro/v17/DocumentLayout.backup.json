@@ -1,0 +1,728 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\controller\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\config\\swaggerfileoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\config\\swaggerfileoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\usercourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\usercourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\accountlockreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\accountlockreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\controller\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\dto\\justifyabsencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\dto\\justifyabsencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\helper\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\helper\\authhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\controller\\gradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\partialgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\partialgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\dto\\partialgradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\dto\\partialgradedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\passwordhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\passwordhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\dto\\forgotuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\dto\\forgotuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\dto\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\dto\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\controller\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\photos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\photos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\gendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\controller\\gendercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\controller\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\rolepermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\controller\\rolepermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\src\\controller\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|c:\\users\\alarrea\\desktop\\project\\backend-grade-pro\\backend-grade-pro\\backend-grade-pro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{212AB0E5-35C7-4F4E-8342-C85ECBBBC9F5}|backend-grade-pro\\backend-grade-pro.csproj|solutionrelative:backend-grade-pro\\backend-grade-pro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwaggerFileOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\config\\SwaggerFileOperationFilter.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\config\\SwaggerFileOperationFilter.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\config\\SwaggerFileOperationFilter.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\config\\SwaggerFileOperationFilter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:21:01.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\controller\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\AssignmentController.cs*",
+              "RelativeToolTip": "backend-grade-pro\\src\\controller\\AssignmentController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:04:03.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Assignment.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Assignment.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:03:21.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JustifyAbsenceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\JustifyAbsenceDTO.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\DTO\\JustifyAbsenceDTO.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\JustifyAbsenceDTO.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\DTO\\JustifyAbsenceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:46:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\AttendanceController.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\AttendanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:45:48.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PartialGrade.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\PartialGrade.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\PartialGrade.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\PartialGrade.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\PartialGrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:31:18.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Attendence.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Attendence.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\Attendence.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Attendence.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\Attendence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:28:28.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PartialGradeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\PartialGradeDTO.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\DTO\\PartialGradeDTO.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\PartialGradeDTO.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\DTO\\PartialGradeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:19:18.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountLockReason.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\AccountLockReason.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\AccountLockReason.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\AccountLockReason.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\AccountLockReason.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:03:01.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\Services\\EmailServices.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\Services\\EmailServices.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\Services\\EmailServices.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\Services\\EmailServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:56:34.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PasswordHistory.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\PasswordHistory.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\PasswordHistory.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\PasswordHistory.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\PasswordHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:49:41.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthHelper.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\Helper\\AuthHelper.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\Helper\\AuthHelper.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\Helper\\AuthHelper.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\Helper\\AuthHelper.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:44:43.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\AuthController.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\controller\\AuthController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:36:09.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ForgotUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\ForgotUserDTO.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\DTO\\ForgotUserDTO.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\ForgotUserDTO.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\DTO\\ForgotUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:35:35.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ForgotPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\ForgotPasswordDTO.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\DTO\\ForgotPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\ForgotPasswordDTO.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\DTO\\ForgotPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:35:03.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:34:40.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\UserCreateDTO.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\DTO\\UserCreateDTO.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\UserCreateDTO.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\DTO\\UserCreateDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:26:15.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\UserUpdateDTO.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\DTO\\UserUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\DTO\\UserUpdateDTO.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\DTO\\UserUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:25:45.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "backend-grade-pro.csproj",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\backend-grade-pro.csproj",
+              "RelativeDocumentMoniker": "backend-grade-pro\\backend-grade-pro.csproj",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\backend-grade-pro.csproj",
+              "RelativeToolTip": "backend-grade-pro\\backend-grade-pro.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T15:09:47.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Answer.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\Answer.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Answer.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:16:49.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Quiz.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\Quiz.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Quiz.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:15:29.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Question.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\Question.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Question.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:14:49.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GradesController.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\GradesController.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\controller\\GradesController.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\GradesController.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\controller\\GradesController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAqwJUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:09:44.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\SubjectController.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\controller\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\SubjectController.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\controller\\SubjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:08:29.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Grade.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\Grade.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Grade.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\Grade.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:01:41.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Subject.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\Subject.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Subject.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:59:41.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\CourseController.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\controller\\CourseController.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\CourseController.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\controller\\CourseController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:52:46.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserCourses.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\UserCourses.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\UserCourses.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\UserCourses.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\UserCourses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:49:14.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Course.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\Course.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Course.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:48:06.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Photos.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Photos.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\Photos.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Photos.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\Photos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:42:35.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PhotosController.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\PhotosController.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\controller\\PhotosController.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\PhotosController.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\controller\\PhotosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:40:20.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GenderController.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\GenderController.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\controller\\GenderController.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\GenderController.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\controller\\GenderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:34:05.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Gender.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\Gender.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Gender.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:33:11.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\UserController.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\UserController.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\controller\\UserController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAswPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:27:29.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\User.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\User.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\User.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\User.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:26:30.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RolePermissionController.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\RolePermissionController.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\controller\\RolePermissionController.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\RolePermissionController.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\controller\\RolePermissionController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:19:10.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\RolePermission.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\RolePermission.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\RolePermission.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\RolePermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:16:22.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\RoleController.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\controller\\RoleController.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\RoleController.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\controller\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:13:45.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Role.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\Role.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Role.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:12:51.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PermissionController.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\PermissionController.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\controller\\PermissionController.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\controller\\PermissionController.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\controller\\PermissionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:06:24.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\Program.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\Program.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\Program.cs*",
+              "RelativeToolTip": "backend-grade-pro\\Program.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:03:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:03:01.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Permissions.cs",
+              "RelativeDocumentMoniker": "backend-grade-pro\\src\\models\\Permissions.cs",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\src\\models\\Permissions.cs",
+              "RelativeToolTip": "backend-grade-pro\\src\\models\\Permissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:02:17.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\appsettings.json",
+              "RelativeDocumentMoniker": "backend-grade-pro\\appsettings.json",
+              "ToolTip": "C:\\Users\\alarrea\\Desktop\\project\\backend-grade-pro\\backend-grade-pro\\appsettings.json",
+              "RelativeToolTip": "backend-grade-pro\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T15:01:07.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
