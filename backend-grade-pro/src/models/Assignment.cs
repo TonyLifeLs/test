@@ -11,5 +11,7 @@
         public DateTime SubmissionDate { get; set; }
         public double? Grade { get; set; }
         public string Comments { get; set; }
+        public int TeacherId { get; set; } // Agregado
+        public User Teacher { get; set; } // Agregado
     }
 }

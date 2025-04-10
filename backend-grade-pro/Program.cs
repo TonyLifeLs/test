@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using backend_grade_pro.src.Data;
+using backend_grade_pro.src.Helper;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -42,7 +43,7 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "API", Version = "v1" });
 
-    // Configuración de seguridad JWT (la que ya tienes)
+    // Configuración de seguridad JWT
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
     {
         In = ParameterLocation.Header,
@@ -63,7 +64,7 @@ builder.Services.AddSwaggerGen(c =>
         },
         new string[] { }
     }});
-    
+
     c.OperationFilter<SwaggerFileOperationFilter>();
     c.MapType<IFormFile>(() => new OpenApiSchema
     {
@@ -73,6 +74,27 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 var app = builder.Build();
+
+// Ejecutar el seeder
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    var context = services.GetRequiredService<ApplicationDbContext>();
+    context.Database.Migrate();
+    var jwtSecretKey = builder.Configuration["Jwt:Key"];
+    Seeders.SeedRolesAndPermissions(context).Wait();
+    Seeders.SeedGenders(context).Wait();
+    Seeders.SeedPhotos(context).Wait();
+    Seeders.SeedUsers(context, jwtSecretKey).Wait();
+    Seeders.SeedCourses(context).Wait();
+    Seeders.SeedUserCourses(context).Wait();
+    Seeders.SeedSubjects(context).Wait();
+    Seeders.SeedSubjectRelations(context).Wait();
+    Seeders.SeedQuizzesAndQuestions(context).Wait();
+    Seeders.SeedAnswers(context).Wait();
+    Seeders.SeedAssignments(context).Wait();
+    Seeders.SeedAttendances(context).Wait();
+}
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -85,7 +107,5 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

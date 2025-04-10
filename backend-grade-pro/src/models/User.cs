@@ -17,7 +17,8 @@ namespace backend_grade_pro.src.models
                 return $"{Name} {SecondName} {LastName} {SecondLastName}";
             }
         }
-        public string Identity { get; set; }
+        public string IdentityCard { get; set; } // Nueva propiedad
+
         public string Email { get; set; }
         public string Phone { get; set; }
         public int Age { get; set; }
@@ -30,7 +31,6 @@ namespace backend_grade_pro.src.models
         public int GenderId { get; set; }
         public Gender Gender { get; set; }
 
-        public string Photo { get; set; }
         public string TutorInfoJson { get; set; }
 
         public TutorInfo TutorInfo
@@ -48,7 +48,8 @@ namespace backend_grade_pro.src.models
         public ICollection<Grade> Grades { get; set; }
         public ICollection<Answer> Answers { get; set; }
         public ICollection<PasswordHistory> PasswordHistories { get; set; }
-        public ICollection<AccountLockReason> AccountLockReasons { get; set; } // Agregado
+        public ICollection<AccountLockReason> AccountLockReasons { get; set; }
+        public Photo Photo { get; set; } // Foto de perfil
     }
 
     public class TutorInfo

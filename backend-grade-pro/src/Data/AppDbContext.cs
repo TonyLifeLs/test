@@ -29,8 +29,6 @@ namespace backend_grade_pro.src.Data
         public DbSet<Attendance> Attendances { get; set; }
         public DbSet<Assignment> Assignments { get; set; }
 
-
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -115,6 +113,11 @@ namespace backend_grade_pro.src.Data
                 .HasOne(alr => alr.User)
                 .WithMany(u => u.AccountLockReasons)
                 .HasForeignKey(alr => alr.UserId);
+
+            modelBuilder.Entity<Photo>()
+                .HasOne(p => p.User)
+                .WithOne(u => u.Photo)
+                .HasForeignKey<Photo>(p => p.UserId);
         }
     }
 }

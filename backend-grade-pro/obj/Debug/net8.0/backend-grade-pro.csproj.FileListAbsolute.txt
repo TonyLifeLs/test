@@ -82,3 +82,4 @@ C:\Users\alarrea\Desktop\project\backend-grade-pro\backend-grade-pro\bin\Debug\n
 C:\Users\alarrea\Desktop\project\backend-grade-pro\backend-grade-pro\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\alarrea\Desktop\project\backend-grade-pro\backend-grade-pro\obj\Debug\net8.0\backend-grade-pro.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\alarrea\Desktop\project\backend-grade-pro\backend-grade-pro\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alarrea\Desktop\project\backend-grade-pro\backend-grade-pro\obj\Debug\net8.0\backend-grade-pro.sourcelink.json

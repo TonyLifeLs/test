@@ -1,6 +1,5 @@
 ﻿namespace backend_grade_pro.src.models
 {
-
     public class Attendance
     {
         public int Id { get; set; }
@@ -11,6 +10,8 @@
         public DateTime Date { get; set; }
         public string Status { get; set; } // "Present", "Absent", "Justified", "Unjustified"
         public string Justification { get; set; } // Nueva propiedad para la justificación
-        public string JustificationFileUrl { get; internal set; }
+        public string JustificationFileUrl { get; set; }
+        public int TeacherId { get; set; } // Agregado
+        public User Teacher { get; set; } // Agregado
     }
 }

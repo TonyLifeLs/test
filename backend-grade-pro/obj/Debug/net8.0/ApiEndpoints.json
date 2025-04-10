@@ -215,6 +215,16 @@
     ]
   },
   {
+    "ContainingType": "backend_grade_pro.src.controller.AuthController",
+    "Method": "TestToken",
+    "RelativePath": "api/Auth/TestToken",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "backend_grade_pro.src.controller.CoursesController",
     "Method": "GetCourses",
     "RelativePath": "api/Courses",

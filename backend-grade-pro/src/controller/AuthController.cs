@@ -4,11 +4,6 @@ using backend_grade_pro.src.Services;
 using backend_grade_pro.src.models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
-using System.IdentityModel.Tokens.Jwt;
-using System.Security.Claims;
-using System.Security.Cryptography;
-using System.Text;
 using backend_grade_pro.src.Helper;
 
 namespace backend_grade_pro.src.controller
@@ -32,7 +27,7 @@ namespace backend_grade_pro.src.controller
         [HttpPost("Login")]
         public async Task<ActionResult<User>> Login(LoginDTO loginDto)
         {
-            var user = await _context.Users.FirstOrDefaultAsync(u => u.Identity == loginDto.Identity);
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.IdentityCard == loginDto.Identity);
             if (user == null || !AuthHelper.VerifyPassword(loginDto.Password, user.Password))
             {
                 if (user != null)
@@ -73,7 +68,7 @@ namespace backend_grade_pro.src.controller
         [HttpPost("ForgotPassword")]
         public async Task<IActionResult> ForgotPassword(ForgotPasswordDTO forgotPasswordDto)
         {
-            var user = await _context.Users.FirstOrDefaultAsync(u => u.Identity == forgotPasswordDto.Identity);
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.IdentityCard == forgotPasswordDto.Identity);
             if (user == null)
             {
                 return NotFound();
@@ -94,7 +89,7 @@ namespace backend_grade_pro.src.controller
         [HttpPost("ForgotUser")]
         public async Task<IActionResult> ForgotUser(ForgotUserDTO forgotUserDto)
         {
-            var user = await _context.Users.FirstOrDefaultAsync(u => u.Identity == forgotUserDto.Identity);
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.IdentityCard == forgotUserDto.Identity);
             if (user == null)
             {
                 return NotFound();
@@ -109,6 +104,24 @@ namespace backend_grade_pro.src.controller
             _emailService.SendForgotUserEmail(user.Email, user.Token);
 
             return Ok(new { Message = "Token enviado al correo electrónico." });
+        }
+      
+        // GET: api/Auth/TestToken
+        [HttpGet("TestToken")]
+        public IActionResult TestToken()
+        {
+            // Crear un usuario de prueba
+            var testUser = new User
+            {
+                Id = 1,
+                IdentityCard = "1726624461",
+                Email = "testuser@example.com",
+                IsActive = true
+            };
+
+            // Generar el token JWT
+            var token = AuthHelper.GenerateJwtToken(testUser, _configuration);
+            return Ok(new { Token = token });
         }
     }
 }

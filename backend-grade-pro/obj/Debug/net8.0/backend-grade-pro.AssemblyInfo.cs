@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("backend-grade-pro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0451c96d884e0f65f3bf18953d815afd1011913")]
 [assembly: System.Reflection.AssemblyProductAttribute("backend-grade-pro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("backend-grade-pro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
